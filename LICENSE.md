@@ -375,8 +375,8 @@ of Creative Commons without its prior written consent including,
 without limitation, in connection with any unauthorized modifications
 to any of its public licenses or any other arrangements,
 understandings, or agreements concerning use of licensed material. For
-the avoidance of doubt, this paragraph does not form part of the
+the avoidance of doubt,  this paragraph does not form part of the
 public licenses.
 
-Creative Commons may be contacted at creativecommons.org.
+Creative Commons may be contacted at creativecommons.org  
 
